@@ -28,3 +28,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-02 15:00:41 +0700] feat(assets): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
