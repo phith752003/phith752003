@@ -63,3 +63,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-03 21:30:50 +0700] docs(header): update header implementation parameters
+- Type: `docs`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
