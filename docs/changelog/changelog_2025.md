@@ -88,3 +88,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-04 19:21:08 +0700] style(badges): enhance SVG contrast for GitHub dark theme compatibility
+- Type: `style`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
