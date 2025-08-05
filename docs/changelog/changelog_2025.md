@@ -98,3 +98,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-05 09:53:44 +0700] perf(assets): cache external badge API calls via GitHub Action artifacts
+- Type: `perf`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
