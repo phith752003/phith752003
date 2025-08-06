@@ -123,3 +123,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-06 15:44:00 +0700] fix(bio): align bio implementation parameters
+- Type: `fix`
+- Scope: `bio`
+- Cycle: 2025 Telemetry Integration
+
