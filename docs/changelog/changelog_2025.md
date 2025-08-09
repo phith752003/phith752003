@@ -168,3 +168,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-09 10:50:50 +0700] feat(assets): refine assets implementation parameters
+- Type: `feat`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
