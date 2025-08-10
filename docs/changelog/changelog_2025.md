@@ -188,3 +188,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-10 19:35:04 +0700] feat(showcase): integrate dynamic visitor counter and activity summary
+- Type: `feat`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
