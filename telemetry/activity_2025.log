@@ -75,3 +75,4 @@
 [2025-08-18 13:18:46 +0700] [COMMIT #71] docs(profile): update bio and executive leadership overview [status: ok]
 [2025-08-18 20:41:43 +0700] [COMMIT #72] docs(readme): expand full-stack technology stack competencies [status: ok]
 [2025-08-18 20:59:49 +0700] [COMMIT #73] docs(stats): update stats implementation parameters [status: ok]
+[2025-08-18 22:22:39 +0700] [COMMIT #74] docs(badges): document custom GitHub Actions profile deployment workflow [status: ok]
