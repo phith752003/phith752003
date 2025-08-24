@@ -483,3 +483,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-24 18:37:51 +0700] feat(header): tune header implementation parameters
+- Type: `feat`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
