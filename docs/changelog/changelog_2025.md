@@ -478,3 +478,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `bio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-24 13:34:56 +0700] feat(tech-stack): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `tech-stack`
+- Cycle: 2025 Telemetry Integration
+
