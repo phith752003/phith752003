@@ -513,3 +513,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-25 21:39:24 +0700] docs(theme): update theme implementation parameters
+- Type: `docs`
+- Scope: `theme`
+- Cycle: 2025 Telemetry Integration
+
