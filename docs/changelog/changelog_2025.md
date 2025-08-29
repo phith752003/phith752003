@@ -573,3 +573,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-29 23:34:50 +0700] fix(stats): align stats implementation parameters
+- Type: `fix`
+- Scope: `stats`
+- Cycle: 2025 Telemetry Integration
+
