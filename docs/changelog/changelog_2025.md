@@ -583,3 +583,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-30 13:21:52 +0700] fix(theme): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `theme`
+- Cycle: 2025 Telemetry Integration
+
