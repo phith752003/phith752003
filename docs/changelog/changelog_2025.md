@@ -638,3 +638,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-01 10:14:24 +0700] feat(readme): integrate dynamic visitor counter and activity summary
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2025 Telemetry Integration
+
