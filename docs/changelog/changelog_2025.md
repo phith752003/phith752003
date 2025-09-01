@@ -658,3 +658,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-01 21:32:26 +0700] docs(assets): expand full-stack technology stack competencies
+- Type: `docs`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
