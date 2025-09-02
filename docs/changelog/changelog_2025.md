@@ -668,3 +668,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-02 17:31:52 +0700] docs(actions): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `actions`
+- Cycle: 2025 Telemetry Integration
+
