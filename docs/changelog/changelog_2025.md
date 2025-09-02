@@ -678,3 +678,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-02 23:16:51 +0700] style(showcase): audit showcase implementation parameters
+- Type: `style`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
