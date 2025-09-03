@@ -683,3 +683,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-03 09:38:29 +0700] style(bio): align social badges into responsive flex grid
+- Type: `style`
+- Scope: `bio`
+- Cycle: 2025 Telemetry Integration
+
