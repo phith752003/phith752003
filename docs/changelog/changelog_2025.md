@@ -873,3 +873,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-10 21:57:17 +0700] fix(widgets): align widgets implementation parameters
+- Type: `fix`
+- Scope: `widgets`
+- Cycle: 2025 Telemetry Integration
+
