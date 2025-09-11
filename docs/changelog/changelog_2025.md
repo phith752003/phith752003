@@ -888,3 +888,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-11 11:18:58 +0700] feat(showcase): verify showcase implementation parameters
+- Type: `feat`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
