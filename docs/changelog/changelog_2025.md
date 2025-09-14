@@ -958,3 +958,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-14 17:39:38 +0700] docs(showcase): expand full-stack technology stack competencies
+- Type: `docs`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
