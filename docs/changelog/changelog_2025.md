@@ -1018,3 +1018,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-18 15:21:02 +0700] chore(actions): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `actions`
+- Cycle: 2025 Telemetry Integration
+
