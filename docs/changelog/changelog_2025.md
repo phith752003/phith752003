@@ -1043,3 +1043,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-19 15:10:34 +0700] chore(header): update markdown linter configuration and header anchor links
+- Type: `chore`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
