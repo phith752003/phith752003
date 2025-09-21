@@ -216,3 +216,4 @@
 [2025-09-20 16:50:02 +0700] [COMMIT #212] feat(readme): integrate live WakaTime coding telemetry widget [status: ok]
 [2025-09-20 17:28:02 +0700] [COMMIT #213] feat(stats): implement interactive skill cards with SVG icons [status: ok]
 [2025-09-20 20:09:01 +0700] [COMMIT #214] feat(badges): refine badges implementation parameters [status: ok]
+[2025-09-21 19:42:19 +0700] [COMMIT #215] feat(theme): embed LeetCode and competitive programming stats [status: ok]
