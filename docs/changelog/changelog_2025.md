@@ -1163,3 +1163,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-25 17:19:36 +0700] chore(metrics): bump GitHub Action version dependencies to latest release
+- Type: `chore`
+- Scope: `metrics`
+- Cycle: 2025 Telemetry Integration
+
