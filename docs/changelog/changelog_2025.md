@@ -1208,3 +1208,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-27 23:40:39 +0700] feat(badges): integrate live WakaTime coding telemetry widget
+- Type: `feat`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
