@@ -255,3 +255,4 @@
 [2025-09-29 22:43:13 +0700] [COMMIT #251] docs(header): update bio and executive leadership overview [status: ok]
 [2025-09-30 11:34:46 +0700] [COMMIT #252] docs(footer): expand full-stack technology stack competencies [status: ok]
 [2025-09-30 19:48:20 +0700] [COMMIT #253] docs(profile): update profile implementation parameters [status: ok]
+[2025-09-30 22:32:57 +0700] [COMMIT #254] docs(readme): document custom GitHub Actions profile deployment workflow [status: ok]
