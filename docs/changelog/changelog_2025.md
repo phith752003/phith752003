@@ -1303,3 +1303,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-02 10:06:57 +0700] refactor(metrics): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `metrics`
+- Cycle: 2025 Telemetry Integration
+
