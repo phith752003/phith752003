@@ -1318,3 +1318,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `bio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-02 20:10:06 +0700] chore(tech-stack): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `tech-stack`
+- Cycle: 2025 Telemetry Integration
+
