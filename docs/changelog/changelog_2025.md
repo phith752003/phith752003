@@ -1323,3 +1323,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-02 23:00:27 +0700] fix(header): align header implementation parameters
+- Type: `fix`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
