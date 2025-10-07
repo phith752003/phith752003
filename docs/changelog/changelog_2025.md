@@ -1403,3 +1403,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-07 22:59:59 +0700] docs(profile): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `profile`
+- Cycle: 2025 Telemetry Integration
+
