@@ -1418,3 +1418,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-09 16:56:34 +0700] docs(badges): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
