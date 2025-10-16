@@ -1568,3 +1568,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-16 20:45:20 +0700] docs(assets): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+

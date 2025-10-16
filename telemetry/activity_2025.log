@@ -315,3 +315,4 @@
 [2025-10-16 11:55:13 +0700] [COMMIT #311] docs(stats): update bio and executive leadership overview [status: ok]
 [2025-10-16 15:26:08 +0700] [COMMIT #312] docs(badges): expand full-stack technology stack competencies [status: ok]
 [2025-10-16 18:32:28 +0700] [COMMIT #313] docs(theme): update theme implementation parameters [status: ok]
+[2025-10-16 20:45:20 +0700] [COMMIT #314] docs(assets): document custom GitHub Actions profile deployment workflow [status: ok]
