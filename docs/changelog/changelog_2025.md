@@ -1623,3 +1623,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-18 20:47:42 +0700] fix(stats): align stats implementation parameters
+- Type: `fix`
+- Scope: `stats`
+- Cycle: 2025 Telemetry Integration
+
