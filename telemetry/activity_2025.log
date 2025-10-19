@@ -327,3 +327,4 @@
 [2025-10-18 18:29:03 +0700] [COMMIT #323] chore(profile): bump GitHub Action version dependencies to latest release [status: ok]
 [2025-10-18 19:44:31 +0700] [COMMIT #324] chore(readme): audit external asset links and update CDN endpoints [status: ok]
 [2025-10-18 20:47:42 +0700] [COMMIT #325] fix(stats): align stats implementation parameters [status: ok]
+[2025-10-19 11:07:56 +0700] [COMMIT #326] fix(badges): correct SVG viewBox scaling across high-DPI displays [status: ok]
