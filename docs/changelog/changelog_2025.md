@@ -1673,3 +1673,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-21 20:55:34 +0700] feat(header): embed LeetCode and competitive programming stats
+- Type: `feat`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
