@@ -1693,3 +1693,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-22 19:02:41 +0700] feat(stats): add social links and verified GPG identity badges
+- Type: `feat`
+- Scope: `stats`
+- Cycle: 2025 Telemetry Integration
+
