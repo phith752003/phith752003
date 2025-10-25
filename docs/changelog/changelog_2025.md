@@ -1753,3 +1753,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-25 09:32:18 +0700] refactor(profile): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `profile`
+- Cycle: 2025 Telemetry Integration
+
