@@ -1773,3 +1773,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-27 10:25:47 +0700] fix(theme): align theme implementation parameters
+- Type: `fix`
+- Scope: `theme`
+- Cycle: 2025 Telemetry Integration
+
