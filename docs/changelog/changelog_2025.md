@@ -1778,3 +1778,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-27 20:25:52 +0700] fix(assets): correct SVG viewBox scaling across high-DPI displays
+- Type: `fix`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
