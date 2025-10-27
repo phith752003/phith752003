@@ -1783,3 +1783,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-27 22:53:16 +0700] fix(widgets): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `widgets`
+- Cycle: 2025 Telemetry Integration
+
