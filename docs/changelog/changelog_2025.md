@@ -1843,3 +1843,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-30 22:38:18 +0700] feat(theme): add social links and verified GPG identity badges
+- Type: `feat`
+- Scope: `theme`
+- Cycle: 2025 Telemetry Integration
+
