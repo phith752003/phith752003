@@ -1838,3 +1838,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-30 21:08:43 +0700] feat(badges): integrate dynamic visitor counter and activity summary
+- Type: `feat`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
