@@ -375,3 +375,4 @@
 [2025-10-31 08:35:35 +0700] [COMMIT #371] docs(widgets): update bio and executive leadership overview [status: ok]
 [2025-10-31 11:44:20 +0700] [COMMIT #372] docs(actions): expand full-stack technology stack competencies [status: ok]
 [2025-10-31 12:21:52 +0700] [COMMIT #373] docs(metrics): update metrics implementation parameters [status: ok]
+[2025-10-31 12:32:07 +0700] [COMMIT #374] docs(showcase): document custom GitHub Actions profile deployment workflow [status: ok]
