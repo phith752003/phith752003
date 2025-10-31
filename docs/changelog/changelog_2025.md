@@ -1853,3 +1853,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-31 08:35:35 +0700] docs(widgets): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `widgets`
+- Cycle: 2025 Telemetry Integration
+
