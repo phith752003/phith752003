@@ -1918,3 +1918,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-03 08:52:11 +0700] chore(assets): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
