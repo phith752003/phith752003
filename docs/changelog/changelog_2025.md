@@ -1968,3 +1968,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-05 09:21:07 +0700] feat(readme): refine readme implementation parameters
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2025 Telemetry Integration
+
