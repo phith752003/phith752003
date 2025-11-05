@@ -1973,3 +1973,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-05 22:39:20 +0700] feat(stats): embed LeetCode and competitive programming stats
+- Type: `feat`
+- Scope: `stats`
+- Cycle: 2025 Telemetry Integration
+
