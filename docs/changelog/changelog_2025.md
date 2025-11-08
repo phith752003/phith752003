@@ -2018,3 +2018,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `bio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-08 13:58:55 +0700] docs(tech-stack): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `tech-stack`
+- Cycle: 2025 Telemetry Integration
+
