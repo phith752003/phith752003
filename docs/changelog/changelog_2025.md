@@ -2048,3 +2048,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-09 19:34:30 +0700] perf(badges): cache external badge API calls via GitHub Action artifacts
+- Type: `perf`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
