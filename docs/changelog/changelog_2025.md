@@ -2033,3 +2033,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-09 10:40:17 +0700] style(profile): align social badges into responsive flex grid
+- Type: `style`
+- Scope: `profile`
+- Cycle: 2025 Telemetry Integration
+
