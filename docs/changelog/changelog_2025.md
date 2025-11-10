@@ -2073,3 +2073,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-10 20:37:21 +0700] fix(metrics): align metrics implementation parameters
+- Type: `fix`
+- Scope: `metrics`
+- Cycle: 2025 Telemetry Integration
+
