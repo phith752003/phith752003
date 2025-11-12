@@ -2118,3 +2118,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-12 23:00:03 +0700] feat(badges): refine badges implementation parameters
+- Type: `feat`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
