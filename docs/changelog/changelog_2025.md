@@ -2148,3 +2148,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-14 11:10:25 +0700] feat(showcase): streamline showcase implementation parameters
+- Type: `feat`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
