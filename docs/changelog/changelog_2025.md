@@ -2203,3 +2203,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-16 17:20:14 +0700] refactor(widgets): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `widgets`
+- Cycle: 2025 Telemetry Integration
+
