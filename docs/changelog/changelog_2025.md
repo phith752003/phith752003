@@ -2358,3 +2358,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-24 14:12:00 +0700] refactor(showcase): harden showcase implementation parameters
+- Type: `refactor`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
