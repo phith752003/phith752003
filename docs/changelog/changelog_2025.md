@@ -2393,3 +2393,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-25 21:14:59 +0700] chore(stats): update markdown linter configuration and header anchor links
+- Type: `chore`
+- Scope: `stats`
+- Cycle: 2025 Telemetry Integration
+
