@@ -2503,3 +2503,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-01 11:18:53 +0700] refactor(bio): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `bio`
+- Cycle: 2025 Telemetry Integration
+
