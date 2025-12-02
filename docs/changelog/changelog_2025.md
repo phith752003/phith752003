@@ -2523,3 +2523,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-02 16:48:28 +0700] fix(profile): align profile implementation parameters
+- Type: `fix`
+- Scope: `profile`
+- Cycle: 2025 Telemetry Integration
+
