@@ -2543,3 +2543,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-02 23:25:29 +0700] chore(theme): update markdown linter configuration and header anchor links
+- Type: `chore`
+- Scope: `theme`
+- Cycle: 2025 Telemetry Integration
+
