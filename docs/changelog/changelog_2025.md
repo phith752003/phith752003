@@ -2553,3 +2553,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-03 15:45:43 +0700] feat(widgets): enhance widgets implementation parameters
+- Type: `feat`
+- Scope: `widgets`
+- Cycle: 2025 Telemetry Integration
+
