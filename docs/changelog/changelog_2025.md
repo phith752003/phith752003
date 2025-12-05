@@ -2598,3 +2598,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-05 10:44:27 +0700] feat(readme): streamline readme implementation parameters
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2025 Telemetry Integration
+
