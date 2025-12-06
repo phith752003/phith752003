@@ -2608,3 +2608,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-06 19:59:59 +0700] docs(badges): expand full-stack technology stack competencies
+- Type: `docs`
+- Scope: `badges`
+- Cycle: 2025 Telemetry Integration
+
