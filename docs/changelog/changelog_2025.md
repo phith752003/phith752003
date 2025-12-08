@@ -2638,3 +2638,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-08 18:43:01 +0700] style(showcase): enhance SVG contrast for GitHub dark theme compatibility
+- Type: `style`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
