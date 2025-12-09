@@ -2653,3 +2653,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-09 08:46:43 +0700] refactor(header): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
