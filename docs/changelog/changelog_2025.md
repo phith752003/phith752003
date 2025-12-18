@@ -2858,3 +2858,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `bio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-18 21:28:39 +0700] feat(tech-stack): integrate live WakaTime coding telemetry widget
+- Type: `feat`
+- Scope: `tech-stack`
+- Cycle: 2025 Telemetry Integration
+
