@@ -2898,3 +2898,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-20 21:51:42 +0700] feat(assets): streamline assets implementation parameters
+- Type: `feat`
+- Scope: `assets`
+- Cycle: 2025 Telemetry Integration
+
