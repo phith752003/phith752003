@@ -2918,3 +2918,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-21 22:41:21 +0700] docs(showcase): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `showcase`
+- Cycle: 2025 Telemetry Integration
+
