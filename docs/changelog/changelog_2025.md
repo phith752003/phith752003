@@ -2923,3 +2923,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-21 23:19:38 +0700] style(bio): refine cyberpunk crimson color palette and glow effects
+- Type: `style`
+- Scope: `bio`
+- Cycle: 2025 Telemetry Integration
+
