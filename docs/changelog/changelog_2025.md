@@ -2933,3 +2933,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-22 10:37:56 +0700] style(header): align social badges into responsive flex grid
+- Type: `style`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
