@@ -3013,3 +3013,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-28 09:33:44 +0700] feat(profile): implement interactive skill cards with SVG icons
+- Type: `feat`
+- Scope: `profile`
+- Cycle: 2025 Telemetry Integration
+
