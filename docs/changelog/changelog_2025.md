@@ -3048,3 +3048,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-30 17:45:24 +0700] feat(actions): streamline actions implementation parameters
+- Type: `feat`
+- Scope: `actions`
+- Cycle: 2025 Telemetry Integration
+
