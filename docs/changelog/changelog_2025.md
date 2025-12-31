@@ -3073,3 +3073,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-31 15:56:36 +0700] style(header): refine cyberpunk crimson color palette and glow effects
+- Type: `style`
+- Scope: `header`
+- Cycle: 2025 Telemetry Integration
+
