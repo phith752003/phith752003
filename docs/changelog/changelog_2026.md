@@ -23,3 +23,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-02 15:00:46 +0700] feat(theme): embed LeetCode and competitive programming stats
+- Type: `feat`
+- Scope: `theme`
+- Cycle: 2026 Telemetry Integration
+
