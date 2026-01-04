@@ -53,3 +53,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-04 19:21:11 +0700] docs(bio): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
