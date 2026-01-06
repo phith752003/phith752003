@@ -83,3 +83,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-06 09:53:08 +0700] style(stats): align social badges into responsive flex grid
+- Type: `style`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
