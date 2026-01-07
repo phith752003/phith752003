@@ -118,3 +118,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-07 22:20:35 +0700] chore(showcase): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `showcase`
+- Cycle: 2026 Telemetry Integration
+
