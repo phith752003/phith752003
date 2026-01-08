@@ -143,3 +143,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-08 21:53:58 +0700] chore(profile): update markdown linter configuration and header anchor links
+- Type: `chore`
+- Scope: `profile`
+- Cycle: 2026 Telemetry Integration
+
