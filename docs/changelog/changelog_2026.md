@@ -178,3 +178,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-10 09:45:50 +0700] feat(actions): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `actions`
+- Cycle: 2026 Telemetry Integration
+
