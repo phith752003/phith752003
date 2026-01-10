@@ -183,3 +183,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-10 20:30:23 +0700] feat(metrics): tune metrics implementation parameters
+- Type: `feat`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
