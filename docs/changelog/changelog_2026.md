@@ -193,3 +193,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-11 13:55:35 +0700] feat(bio): add social links and verified GPG identity badges
+- Type: `feat`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
