@@ -213,3 +213,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-13 14:23:31 +0700] docs(profile): update profile implementation parameters
+- Type: `docs`
+- Scope: `profile`
+- Cycle: 2026 Telemetry Integration
+
