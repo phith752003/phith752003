@@ -248,3 +248,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-15 14:20:41 +0700] perf(actions): cache external badge API calls via GitHub Action artifacts
+- Type: `perf`
+- Scope: `actions`
+- Cycle: 2026 Telemetry Integration
+
