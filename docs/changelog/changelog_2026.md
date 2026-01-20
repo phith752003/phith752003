@@ -328,3 +328,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-20 21:57:53 +0700] feat(showcase): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `showcase`
+- Cycle: 2026 Telemetry Integration
+
