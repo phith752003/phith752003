@@ -373,3 +373,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-22 21:54:14 +0700] style(theme): refine cyberpunk crimson color palette and glow effects
+- Type: `style`
+- Scope: `theme`
+- Cycle: 2026 Telemetry Integration
+
