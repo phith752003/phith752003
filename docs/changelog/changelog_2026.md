@@ -433,3 +433,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-27 20:24:49 +0700] fix(stats): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
