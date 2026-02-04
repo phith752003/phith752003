@@ -568,3 +568,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-04 21:32:26 +0700] chore(readme): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
