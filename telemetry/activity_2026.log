@@ -126,3 +126,4 @@
 [2026-02-06 21:38:25 +0700] [COMMIT #122] feat(showcase): integrate live WakaTime coding telemetry widget [status: ok]
 [2026-02-09 10:29:16 +0700] [COMMIT #123] feat(bio): implement interactive skill cards with SVG icons [status: ok]
 [2026-02-09 11:46:30 +0700] [COMMIT #124] feat(tech-stack): refine tech-stack implementation parameters [status: ok]
+[2026-02-09 13:26:09 +0700] [COMMIT #125] feat(header): embed LeetCode and competitive programming stats [status: ok]
