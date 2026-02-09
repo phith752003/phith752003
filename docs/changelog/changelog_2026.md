@@ -628,3 +628,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `header`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-09 18:50:50 +0700] feat(footer): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `footer`
+- Cycle: 2026 Telemetry Integration
+
