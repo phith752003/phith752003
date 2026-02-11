@@ -648,3 +648,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-11 18:09:10 +0700] feat(badges): streamline badges implementation parameters
+- Type: `feat`
+- Scope: `badges`
+- Cycle: 2026 Telemetry Integration
+
