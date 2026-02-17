@@ -743,3 +743,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-17 15:39:57 +0700] chore(metrics): update markdown linter configuration and header anchor links
+- Type: `chore`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
