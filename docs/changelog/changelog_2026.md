@@ -778,3 +778,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-19 21:40:03 +0700] feat(readme): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
