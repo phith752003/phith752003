@@ -803,3 +803,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-20 19:10:42 +0700] docs(widgets): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
