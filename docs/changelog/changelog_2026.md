@@ -813,3 +813,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-20 23:01:12 +0700] docs(metrics): update metrics implementation parameters
+- Type: `docs`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
