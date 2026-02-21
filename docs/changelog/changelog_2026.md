@@ -818,3 +818,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-21 14:47:33 +0700] docs(showcase): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `showcase`
+- Cycle: 2026 Telemetry Integration
+
