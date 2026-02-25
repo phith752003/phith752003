@@ -868,3 +868,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-25 15:43:47 +0700] chore(assets): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `assets`
+- Cycle: 2026 Telemetry Integration
+
