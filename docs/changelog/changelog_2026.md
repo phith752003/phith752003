@@ -883,3 +883,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-26 15:21:02 +0700] fix(metrics): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
