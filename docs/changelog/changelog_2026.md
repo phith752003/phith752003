@@ -893,3 +893,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-26 19:13:19 +0700] chore(bio): update markdown linter configuration and header anchor links
+- Type: `chore`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
