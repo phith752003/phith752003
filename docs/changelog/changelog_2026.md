@@ -908,3 +908,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `header`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-27 15:10:34 +0700] feat(footer): integrate live WakaTime coding telemetry widget
+- Type: `feat`
+- Scope: `footer`
+- Cycle: 2026 Telemetry Integration
+
