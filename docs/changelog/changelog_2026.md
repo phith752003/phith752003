@@ -963,3 +963,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-02 22:45:29 +0700] docs(bio): update bio implementation parameters
+- Type: `docs`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
