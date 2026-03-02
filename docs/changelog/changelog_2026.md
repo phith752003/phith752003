@@ -953,3 +953,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-02 10:21:32 +0700] docs(metrics): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
