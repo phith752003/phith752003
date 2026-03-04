@@ -988,3 +988,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-04 21:11:23 +0700] style(readme): enhance SVG contrast for GitHub dark theme compatibility
+- Type: `style`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
