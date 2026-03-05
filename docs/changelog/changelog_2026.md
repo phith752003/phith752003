@@ -1003,3 +1003,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-05 20:49:47 +0700] refactor(theme): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `theme`
+- Cycle: 2026 Telemetry Integration
+
