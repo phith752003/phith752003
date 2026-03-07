@@ -1033,3 +1033,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-07 15:28:41 +0700] fix(bio): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
