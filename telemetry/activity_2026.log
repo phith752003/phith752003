@@ -235,3 +235,4 @@
 [2026-03-16 19:53:53 +0700] [COMMIT #231] refactor(widgets): streamline markdown structure and remove redundant HTML tables [status: ok]
 [2026-03-16 22:35:19 +0700] [COMMIT #232] refactor(actions): harden actions implementation parameters [status: ok]
 [2026-03-16 22:40:41 +0700] [COMMIT #233] chore(metrics): bump GitHub Action version dependencies to latest release [status: ok]
+[2026-03-17 09:52:10 +0700] [COMMIT #234] chore(showcase): audit external asset links and update CDN endpoints [status: ok]
