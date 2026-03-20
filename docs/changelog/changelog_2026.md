@@ -1223,3 +1223,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-20 18:42:09 +0700] feat(widgets): embed LeetCode and competitive programming stats
+- Type: `feat`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
