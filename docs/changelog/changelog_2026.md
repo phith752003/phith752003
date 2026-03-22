@@ -1253,3 +1253,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-22 22:56:39 +0700] docs(header): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `header`
+- Cycle: 2026 Telemetry Integration
+
