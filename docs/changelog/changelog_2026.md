@@ -1278,3 +1278,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-23 19:02:59 +0700] style(badges): audit badges implementation parameters
+- Type: `style`
+- Scope: `badges`
+- Cycle: 2026 Telemetry Integration
+
