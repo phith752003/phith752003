@@ -1363,3 +1363,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-30 16:13:57 +0700] feat(widgets): implement interactive skill cards with SVG icons
+- Type: `feat`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
