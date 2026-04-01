@@ -1393,3 +1393,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-01 18:29:03 +0700] feat(header): add social links and verified GPG identity badges
+- Type: `feat`
+- Scope: `header`
+- Cycle: 2026 Telemetry Integration
+
