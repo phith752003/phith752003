@@ -1513,3 +1513,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-09 21:47:26 +0700] feat(metrics): implement interactive skill cards with SVG icons
+- Type: `feat`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
