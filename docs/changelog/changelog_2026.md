@@ -1703,3 +1703,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `badges`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-22 09:34:03 +0700] docs(theme): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `theme`
+- Cycle: 2026 Telemetry Integration
+
