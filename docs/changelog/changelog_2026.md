@@ -1733,3 +1733,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-23 20:55:01 +0700] style(bio): align social badges into responsive flex grid
+- Type: `style`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
