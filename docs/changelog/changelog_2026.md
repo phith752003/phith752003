@@ -1768,3 +1768,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-26 13:07:08 +0700] chore(badges): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `badges`
+- Cycle: 2026 Telemetry Integration
+
