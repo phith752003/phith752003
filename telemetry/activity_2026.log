@@ -358,3 +358,4 @@
 [2026-04-26 13:07:08 +0700] [COMMIT #354] chore(badges): audit external asset links and update CDN endpoints [status: ok]
 [2026-04-26 22:14:41 +0700] [COMMIT #355] fix(theme): align theme implementation parameters [status: ok]
 [2026-04-27 12:29:56 +0700] [COMMIT #356] fix(assets): correct SVG viewBox scaling across high-DPI displays [status: ok]
+[2026-04-27 12:40:56 +0700] [COMMIT #357] fix(widgets): fix broken link in portfolio demonstration redirect [status: ok]
