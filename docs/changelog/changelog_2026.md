@@ -1813,3 +1813,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-28 19:04:56 +0700] feat(header): implement interactive skill cards with SVG icons
+- Type: `feat`
+- Scope: `header`
+- Cycle: 2026 Telemetry Integration
+
