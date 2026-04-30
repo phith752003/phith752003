@@ -1863,3 +1863,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-30 13:41:35 +0700] docs(metrics): update metrics implementation parameters
+- Type: `docs`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
