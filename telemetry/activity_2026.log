@@ -375,3 +375,4 @@
 [2026-04-30 12:04:46 +0700] [COMMIT #371] docs(widgets): update bio and executive leadership overview [status: ok]
 [2026-04-30 13:02:18 +0700] [COMMIT #372] docs(actions): expand full-stack technology stack competencies [status: ok]
 [2026-04-30 13:41:35 +0700] [COMMIT #373] docs(metrics): update metrics implementation parameters [status: ok]
+[2026-05-01 14:42:36 +0700] [COMMIT #374] docs(showcase): document custom GitHub Actions profile deployment workflow [status: ok]
