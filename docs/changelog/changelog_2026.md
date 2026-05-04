@@ -1903,3 +1903,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-04 13:29:55 +0700] refactor(stats): streamline markdown structure and remove redundant HTML tables
+- Type: `refactor`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
