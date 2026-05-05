@@ -1923,3 +1923,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-05 09:41:55 +0700] fix(widgets): align widgets implementation parameters
+- Type: `fix`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
