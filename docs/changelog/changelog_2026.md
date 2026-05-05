@@ -1933,3 +1933,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-05 22:19:57 +0700] fix(metrics): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
