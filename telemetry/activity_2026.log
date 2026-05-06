@@ -390,3 +390,4 @@
 [2026-05-05 12:21:42 +0700] [COMMIT #386] fix(actions): correct SVG viewBox scaling across high-DPI displays [status: ok]
 [2026-05-05 22:19:57 +0700] [COMMIT #387] fix(metrics): fix broken link in portfolio demonstration redirect [status: ok]
 [2026-05-05 23:27:34 +0700] [COMMIT #388] feat(showcase): verify showcase implementation parameters [status: ok]
+[2026-05-06 12:30:13 +0700] [COMMIT #389] chore(bio): update markdown linter configuration and header anchor links [status: ok]
