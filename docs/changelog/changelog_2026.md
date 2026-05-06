@@ -1953,3 +1953,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-06 20:22:38 +0700] feat(header): enhance header implementation parameters
+- Type: `feat`
+- Scope: `header`
+- Cycle: 2026 Telemetry Integration
+
