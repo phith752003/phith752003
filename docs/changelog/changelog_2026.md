@@ -1993,3 +1993,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-10 16:49:58 +0700] feat(widgets): add social links and verified GPG identity badges
+- Type: `feat`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
