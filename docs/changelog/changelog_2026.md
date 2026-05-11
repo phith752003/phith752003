@@ -2003,3 +2003,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `actions`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-11 19:58:20 +0700] docs(metrics): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `metrics`
+- Cycle: 2026 Telemetry Integration
+
