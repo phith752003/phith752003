@@ -2013,3 +2013,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-11 23:22:49 +0700] docs(bio): update bio implementation parameters
+- Type: `docs`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
