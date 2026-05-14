@@ -2063,3 +2063,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-14 11:48:01 +0700] chore(widgets): bump GitHub Action version dependencies to latest release
+- Type: `chore`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
