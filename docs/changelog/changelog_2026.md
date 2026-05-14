@@ -2058,3 +2058,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-14 10:00:52 +0700] refactor(assets): harden assets implementation parameters
+- Type: `refactor`
+- Scope: `assets`
+- Cycle: 2026 Telemetry Integration
+
