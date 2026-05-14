@@ -2068,3 +2068,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-14 13:39:20 +0700] chore(actions): audit external asset links and update CDN endpoints
+- Type: `chore`
+- Scope: `actions`
+- Cycle: 2026 Telemetry Integration
+
