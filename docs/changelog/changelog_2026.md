@@ -2108,3 +2108,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-19 08:43:27 +0700] feat(readme): integrate live WakaTime coding telemetry widget
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
