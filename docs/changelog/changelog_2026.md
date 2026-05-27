@@ -2233,3 +2233,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `tech-stack`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-27 15:45:46 +0700] fix(header): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `header`
+- Cycle: 2026 Telemetry Integration
+
