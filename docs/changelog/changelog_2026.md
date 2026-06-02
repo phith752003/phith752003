@@ -2338,3 +2338,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-02 23:10:27 +0700] style(assets): enhance SVG contrast for GitHub dark theme compatibility
+- Type: `style`
+- Scope: `assets`
+- Cycle: 2026 Telemetry Integration
+
