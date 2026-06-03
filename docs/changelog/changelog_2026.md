@@ -2343,3 +2343,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-03 10:40:09 +0700] perf(widgets): optimize widgets implementation parameters
+- Type: `perf`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
