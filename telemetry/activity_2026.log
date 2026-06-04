@@ -475,3 +475,4 @@
 [2026-06-03 14:24:12 +0700] [COMMIT #471] refactor(metrics): streamline markdown structure and remove redundant HTML tables [status: ok]
 [2026-06-03 14:40:08 +0700] [COMMIT #472] refactor(showcase): harden showcase implementation parameters [status: ok]
 [2026-06-03 18:47:10 +0700] [COMMIT #473] chore(bio): bump GitHub Action version dependencies to latest release [status: ok]
+[2026-06-04 11:44:14 +0700] [COMMIT #474] chore(tech-stack): audit external asset links and update CDN endpoints [status: ok]
