@@ -2383,3 +2383,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `footer`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-04 19:58:33 +0700] fix(profile): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `profile`
+- Cycle: 2026 Telemetry Integration
+
