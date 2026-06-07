@@ -2418,3 +2418,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-07 21:43:15 +0700] feat(actions): refine actions implementation parameters
+- Type: `feat`
+- Scope: `actions`
+- Cycle: 2026 Telemetry Integration
+
