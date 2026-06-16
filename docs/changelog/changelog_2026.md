@@ -2533,3 +2533,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-16 08:38:21 +0700] fix(stats): fix broken link in portfolio demonstration redirect
+- Type: `fix`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
