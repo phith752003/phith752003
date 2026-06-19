@@ -2573,3 +2573,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-19 12:56:19 +0700] feat(bio): embed LeetCode and competitive programming stats
+- Type: `feat`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
