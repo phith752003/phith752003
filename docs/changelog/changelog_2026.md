@@ -2588,3 +2588,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `header`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-20 20:26:04 +0700] feat(footer): integrate dynamic visitor counter and activity summary
+- Type: `feat`
+- Scope: `footer`
+- Cycle: 2026 Telemetry Integration
+
