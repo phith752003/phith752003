@@ -2603,3 +2603,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 11:19:45 +0700] docs(stats): update bio and executive leadership overview
+- Type: `docs`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
