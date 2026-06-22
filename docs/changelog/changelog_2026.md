@@ -2618,3 +2618,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 21:52:12 +0700] docs(assets): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `assets`
+- Cycle: 2026 Telemetry Integration
+
