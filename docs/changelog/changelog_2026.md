@@ -2648,3 +2648,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `bio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-24 11:32:56 +0700] perf(tech-stack): cache external badge API calls via GitHub Action artifacts
+- Type: `perf`
+- Scope: `tech-stack`
+- Cycle: 2026 Telemetry Integration
+
