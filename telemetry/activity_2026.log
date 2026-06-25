@@ -535,3 +535,4 @@
 [2026-06-24 14:41:24 +0700] [COMMIT #531] refactor(header): streamline markdown structure and remove redundant HTML tables [status: ok]
 [2026-06-24 15:05:45 +0700] [COMMIT #532] refactor(footer): harden footer implementation parameters [status: ok]
 [2026-06-24 17:45:41 +0700] [COMMIT #533] chore(profile): bump GitHub Action version dependencies to latest release [status: ok]
+[2026-06-25 12:07:24 +0700] [COMMIT #534] chore(readme): audit external asset links and update CDN endpoints [status: ok]
