@@ -2678,3 +2678,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-25 15:36:03 +0700] fix(badges): correct SVG viewBox scaling across high-DPI displays
+- Type: `fix`
+- Scope: `badges`
+- Cycle: 2026 Telemetry Integration
+
