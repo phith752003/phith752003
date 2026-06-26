@@ -2698,3 +2698,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-26 12:47:04 +0700] feat(actions): integrate Spotify currently playing live music widget
+- Type: `feat`
+- Scope: `actions`
+- Cycle: 2026 Telemetry Integration
+
