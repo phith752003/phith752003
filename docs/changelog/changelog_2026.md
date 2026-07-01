@@ -2763,3 +2763,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `assets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-01 13:02:34 +0700] docs(widgets): update widgets implementation parameters
+- Type: `docs`
+- Scope: `widgets`
+- Cycle: 2026 Telemetry Integration
+
