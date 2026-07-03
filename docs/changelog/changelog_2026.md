@@ -2808,3 +2808,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-03 12:57:45 +0700] refactor(readme): harden readme implementation parameters
+- Type: `refactor`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
