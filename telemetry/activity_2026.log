@@ -592,3 +592,4 @@
 [2026-07-12 16:18:01 +0700] [COMMIT #588] style(footer): enhance SVG contrast for GitHub dark theme compatibility [status: ok]
 [2026-07-12 19:41:48 +0700] [COMMIT #589] perf(profile): optimize profile implementation parameters [status: ok]
 [2026-07-13 18:25:03 +0700] [COMMIT #590] perf(readme): cache external badge API calls via GitHub Action artifacts [status: ok]
+[2026-07-13 21:35:36 +0700] [COMMIT #591] refactor(stats): streamline markdown structure and remove redundant HTML tables [status: ok]
