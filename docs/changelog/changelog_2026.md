@@ -2958,3 +2958,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-14 11:02:18 +0700] refactor(badges): harden badges implementation parameters
+- Type: `refactor`
+- Scope: `badges`
+- Cycle: 2026 Telemetry Integration
+
