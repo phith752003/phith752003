@@ -3018,3 +3018,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-16 19:21:53 +0700] feat(readme): refine readme implementation parameters
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
