@@ -3028,3 +3028,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `stats`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-17 17:05:03 +0700] feat(badges): add automated profile metric refresh GitHub Action
+- Type: `feat`
+- Scope: `badges`
+- Cycle: 2026 Telemetry Integration
+
