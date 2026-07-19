@@ -3058,3 +3058,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `metrics`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-19 15:15:02 +0700] docs(showcase): expand full-stack technology stack competencies
+- Type: `docs`
+- Scope: `showcase`
+- Cycle: 2026 Telemetry Integration
+
