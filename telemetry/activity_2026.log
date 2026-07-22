@@ -622,3 +622,4 @@
 [2026-07-21 13:51:46 +0700] [COMMIT #618] style(readme): enhance SVG contrast for GitHub dark theme compatibility [status: ok]
 [2026-07-21 15:48:07 +0700] [COMMIT #619] perf(stats): optimize stats implementation parameters [status: ok]
 [2026-07-21 17:28:18 +0700] [COMMIT #620] perf(badges): cache external badge API calls via GitHub Action artifacts [status: ok]
+[2026-07-22 10:16:02 +0700] [COMMIT #621] refactor(theme): streamline markdown structure and remove redundant HTML tables [status: ok]
