@@ -3208,3 +3208,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `bio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-28 12:42:23 +0700] docs(tech-stack): expand full-stack technology stack competencies
+- Type: `docs`
+- Scope: `tech-stack`
+- Cycle: 2026 Telemetry Integration
+
