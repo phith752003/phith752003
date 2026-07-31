@@ -3233,3 +3233,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-31 09:00:36 +0700] style(stats): align social badges into responsive flex grid
+- Type: `style`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
