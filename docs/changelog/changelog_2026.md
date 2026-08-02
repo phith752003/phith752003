@@ -3258,3 +3258,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `widgets`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-02 21:30:29 +0700] refactor(actions): harden actions implementation parameters
+- Type: `refactor`
+- Scope: `actions`
+- Cycle: 2026 Telemetry Integration
+
