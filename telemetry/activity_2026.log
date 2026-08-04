@@ -658,3 +658,4 @@
 [2026-08-03 14:37:28 +0700] [COMMIT #654] chore(showcase): audit external asset links and update CDN endpoints [status: ok]
 [2026-08-03 19:31:01 +0700] [COMMIT #655] fix(bio): align bio implementation parameters [status: ok]
 [2026-08-04 19:36:42 +0700] [COMMIT #656] fix(tech-stack): correct SVG viewBox scaling across high-DPI displays [status: ok]
+[2026-08-04 19:59:23 +0700] [COMMIT #657] fix(header): fix broken link in portfolio demonstration redirect [status: ok]
