@@ -3298,3 +3298,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-05 18:28:28 +0700] feat(readme): integrate Spotify currently playing live music widget
+- Type: `feat`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
