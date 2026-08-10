@@ -3368,3 +3368,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-10 11:46:01 +0700] docs(readme): document custom GitHub Actions profile deployment workflow
+- Type: `docs`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
