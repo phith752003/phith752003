@@ -3513,3 +3513,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `readme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-19 20:42:51 +0700] docs(stats): update stats implementation parameters
+- Type: `docs`
+- Scope: `stats`
+- Cycle: 2026 Telemetry Integration
+
