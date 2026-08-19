@@ -3508,3 +3508,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `profile`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-19 19:53:45 +0700] docs(readme): expand full-stack technology stack competencies
+- Type: `docs`
+- Scope: `readme`
+- Cycle: 2026 Telemetry Integration
+
