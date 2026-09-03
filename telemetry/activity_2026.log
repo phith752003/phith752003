@@ -750,3 +750,4 @@
 [2026-09-02 16:20:30 +0700] [COMMIT #746] fix(badges): correct SVG viewBox scaling across high-DPI displays [status: ok]
 [2026-09-03 09:02:12 +0700] [COMMIT #747] fix(theme): fix broken link in portfolio demonstration redirect [status: ok]
 [2026-09-03 16:08:04 +0700] [COMMIT #748] feat(assets): verify assets implementation parameters [status: ok]
+[2026-09-03 22:00:52 +0700] [COMMIT #749] chore(widgets): update markdown linter configuration and header anchor links [status: ok]
