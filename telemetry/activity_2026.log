@@ -748,3 +748,4 @@
 [2026-09-02 12:36:37 +0700] [COMMIT #744] chore(readme): audit external asset links and update CDN endpoints [status: ok]
 [2026-09-02 13:58:32 +0700] [COMMIT #745] fix(stats): align stats implementation parameters [status: ok]
 [2026-09-02 16:20:30 +0700] [COMMIT #746] fix(badges): correct SVG viewBox scaling across high-DPI displays [status: ok]
+[2026-09-03 09:02:12 +0700] [COMMIT #747] fix(theme): fix broken link in portfolio demonstration redirect [status: ok]
