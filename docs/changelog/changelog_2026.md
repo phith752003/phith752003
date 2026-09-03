@@ -3738,3 +3738,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `theme`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-09-03 16:08:04 +0700] feat(assets): verify assets implementation parameters
+- Type: `feat`
+- Scope: `assets`
+- Cycle: 2026 Telemetry Integration
+
