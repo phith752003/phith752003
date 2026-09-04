@@ -3763,3 +3763,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `showcase`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-09-04 21:59:41 +0700] feat(bio): implement interactive skill cards with SVG icons
+- Type: `feat`
+- Scope: `bio`
+- Cycle: 2026 Telemetry Integration
+
