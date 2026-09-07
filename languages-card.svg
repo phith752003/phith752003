@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 195" width="430" height="195">
+  <defs>
+    <!-- Filter Neon Glow cho đường viền và text highlight -->
+    <filter id="crimson-glow-lang" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="langBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF1E40" />
+      <stop offset="35%" stop-color="#4D0012" />
+      <stop offset="70%" stop-color="#FF1E40" />
+      <stop offset="100%" stop-color="#80001B" />
+    </linearGradient>
+
+    <linearGradient id="langHeaderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A0A10" />
+      <stop offset="50%" stop-color="#2E0A16" />
+      <stop offset="100%" stop-color="#1A0A10" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-bg {
+      fill: #08080C;
+    }
+    .card-border {
+      stroke: url(#langBorderGrad);
+      stroke-width: 1.5;
+      fill: none;
+    }
+    .font-mono {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+    }
+    .title-header {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      fill: #FF1E40;
+      letter-spacing: 1.2px;
+    }
+    .lang-name {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      fill: #FFFFFF;
+    }
+    .lang-scope {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9.5px;
+      font-weight: 400;
+      fill: #808095;
+    }
+    .lang-percent {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 800;
+    }
+    .hud-dim {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9px;
+      fill: #808095;
+    }
+    @keyframes pulseNeon {
+      0%, 100% { opacity: 0.95; }
+      50% { opacity: 0.4; }
+    }
+    .live-indicator {
+      animation: pulseNeon 2s infinite ease-in-out;
+    }
+  </style>
+
+  <!-- Khung nền Card -->
+  <rect x="2" y="2" width="426" height="191" rx="8" class="card-bg" />
+  <rect x="2" y="2" width="426" height="191" rx="8" class="card-border" />
+
+  <!-- Góc Cyberpunk Vát Cắt (Corner Bevels) -->
+  <path d="M 2 16 L 16 2" stroke="#FF1E40" stroke-width="2" fill="none" />
+  <path d="M 414 2 L 428 16" stroke="#FF1E40" stroke-width="2" fill="none" />
+  <path d="M 2 179 L 16 193" stroke="#FF1E40" stroke-width="2" fill="none" />
+  <path d="M 414 193 L 428 179" stroke="#FF1E40" stroke-width="2" fill="none" />
+
+  <!-- Thanh Header Window Terminal -->
+  <rect x="3" y="3" width="424" height="30" rx="6" fill="url(#langHeaderGrad)" />
+  <line x1="3" y1="33" x2="427" y2="33" stroke="#4D0014" stroke-width="1" />
+
+  <!-- 3 Nút Điều Khiển Window -->
+  <circle cx="18" cy="18" r="4" fill="#FF1E40" />
+  <circle cx="31" cy="18" r="4" fill="#B30024" />
+  <circle cx="44" cy="18" r="4" fill="#4D0012" />
+
+  <!-- Tiêu đề Header -->
+  <text x="64" y="22" class="title-header">PHITH752003 // TECH MATRIX</text>
+  <circle cx="365" cy="18" r="3.5" fill="#00FF88" class="live-indicator" />
+  <text x="375" y="21" class="hud-dim" fill="#00FF88" font-weight="bold">ACTIVE</text>
+
+  <!-- ================= THANH TỔNG HỢP MATRIX MULTI-SEGMENT ================= -->
+  <g transform="translate(20, 43)">
+    <!-- Nền thanh tổng hợp (Tổng width = 390, height = 7) -->
+    <rect x="0" y="0" width="390" height="7" rx="3.5" fill="#14040A" stroke="#2B000C" stroke-width="0.8" />
+    
+    <!-- Segment 1: Python (45.5% -> 177.5px) -->
+    <rect x="0" y="0" width="177.5" height="7" rx="3.5" fill="#FF1E40" />
+    <!-- Segment 2: TypeScript / JS (26.5% -> 103.4px) -->
+    <rect x="178.5" y="0" width="103.4" height="7" fill="#FF4D6D" />
+    <!-- Segment 3: Shell / Automation (13.0% -> 50.7px) -->
+    <rect x="282.9" y="0" width="50.7" height="7" fill="#FF758F" />
+    <!-- Segment 4: WebGL / HTML / CSS (9.0% -> 35.1px) -->
+    <rect x="334.6" y="0" width="35.1" height="7" fill="#B30024" />
+    <!-- Segment 5: Go / Rust / Kernels (6.0% -> 23.4px) -->
+    <rect x="370.7" y="0" width="19.3" height="7" rx="3.5" fill="#660017" />
+  </g>
+
+  <!-- ================= DANH SÁCH CHI TIẾT NGÔN NGỮ & STACK ================= -->
+  <g transform="translate(20, 60)">
+    <!-- 1. Python -->
+    <g transform="translate(0, 14)">
+      <circle cx="4" cy="-3" r="4" fill="#FF1E40" />
+      <text x="16" y="1" class="lang-name">Python</text>
+      <text x="68" y="1" class="lang-scope">(Core AI Swarms &amp; Conductor)</text>
+      <text x="295" y="1" class="lang-percent" fill="#FF1E40">45.5%</text>
+      <!-- Mini bar -->
+      <rect x="340" y="-7" width="50" height="5" rx="2.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.6" />
+      <rect x="340" y="-7" width="23" height="5" rx="2.5" fill="#FF1E40" />
+    </g>
+
+    <!-- 2. TypeScript / JS -->
+    <g transform="translate(0, 38)">
+      <circle cx="4" cy="-3" r="4" fill="#FF4D6D" />
+      <text x="16" y="1" class="lang-name">TypeScript / JS</text>
+      <text x="120" y="1" class="lang-scope">(Spatial UI &amp; Next.js)</text>
+      <text x="295" y="1" class="lang-percent" fill="#FF4D6D">26.5%</text>
+      <!-- Mini bar -->
+      <rect x="340" y="-7" width="50" height="5" rx="2.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.6" />
+      <rect x="340" y="-7" width="13.5" height="5" rx="2.5" fill="#FF4D6D" />
+    </g>
+
+    <!-- 3. Shell / Automation -->
+    <g transform="translate(0, 62)">
+      <circle cx="4" cy="-3" r="4" fill="#FF758F" />
+      <text x="16" y="1" class="lang-name">Shell / Automation</text>
+      <text x="136" y="1" class="lang-scope">(CLI &amp; Kernel Hooks)</text>
+      <text x="295" y="1" class="lang-percent" fill="#FF758F">13.0%</text>
+      <!-- Mini bar -->
+      <rect x="340" y="-7" width="50" height="5" rx="2.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.6" />
+      <rect x="340" y="-7" width="6.5" height="5" rx="2.5" fill="#FF758F" />
+    </g>
+
+    <!-- 4. WebGL / HTML / SVG -->
+    <g transform="translate(0, 86)">
+      <circle cx="4" cy="-3" r="4" fill="#B30024" />
+      <text x="16" y="1" class="lang-name">WebGL / CSS / SVG</text>
+      <text x="136" y="1" class="lang-scope">(Cyberpunk Telemetry)</text>
+      <text x="295" y="1" class="lang-percent" fill="#B30024">9.0%</text>
+      <!-- Mini bar -->
+      <rect x="340" y="-7" width="50" height="5" rx="2.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.6" />
+      <rect x="340" y="-7" width="4.5" height="5" rx="2.5" fill="#B30024" />
+    </g>
+
+    <!-- 5. Go / Rust / Kernels -->
+    <g transform="translate(0, 110)">
+      <circle cx="4" cy="-3" r="4" fill="#660017" />
+      <text x="16" y="1" class="lang-name">Go / Rust / Kernels</text>
+      <text x="142" y="1" class="lang-scope">(High-Velocity Concurrency)</text>
+      <text x="295" y="1" class="lang-percent" fill="#FFA6B7">6.0%</text>
+      <!-- Mini bar -->
+      <rect x="340" y="-7" width="50" height="5" rx="2.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.6" />
+      <rect x="340" y="-7" width="3" height="5" rx="2.5" fill="#FFA6B7" />
+    </g>
+  </g>
+
+  <!-- Viền góc trang trí dưới -->
+  <line x1="12" y1="185" x2="36" y2="185" stroke="#FF1E40" stroke-width="1.5" />
+  <line x1="394" y1="185" x2="418" y2="185" stroke="#FF1E40" stroke-width="1.5" />
+</svg>

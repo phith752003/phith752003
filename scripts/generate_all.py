@@ -30,6 +30,7 @@ from prep_photo import generate_demo_hero_avatar
 from make_ascii_svg import make_ascii_svg
 from make_info_card import make_info_card
 from render_heatmap_svg import render_heatmap_svg
+from make_stats_card import make_stats_card, make_languages_card
 
 
 def ensure_banner_capsule(output_path: str):
@@ -189,6 +190,18 @@ def main():
         print("[*] Đang khởi tạo Cinematic Banner Capsule...")
         ensure_banner_capsule(banner_path)
         print(f"[+] Đã xuất file: {banner_path}")
+
+    # 6. Sinh stats-card.svg
+    stats_path = os.path.join(out_dir, "stats-card.svg")
+    print("[*] Đang render Cyberpunk Autonomous Stats Card...")
+    make_stats_card(stats_path, width=430, height=195)
+    print(f"[+] Đã xuất file: {stats_path}")
+
+    # 7. Sinh languages-card.svg
+    lang_path = os.path.join(out_dir, "languages-card.svg")
+    print("[*] Đang render Cyberpunk Tech Matrix & Languages Card...")
+    make_languages_card(lang_path, width=430, height=195)
+    print(f"[+] Đã xuất file: {lang_path}")
 
     print("==================================================================")
     print("[THÀNH CÔNG] Toàn bộ assets đã sẵn sàng cho README.md!")

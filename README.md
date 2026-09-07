@@ -113,11 +113,20 @@
 
   <br/><br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=phith752003&show_icons=true&theme=tokyonight&bg_color=08080C&title_color=FF1E40&text_color=E2E2E8&icon_color=FF1E40&border_color=330A14&hide_border=false" alt="Hoàng Phi GitHub Stats" height="160" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phith752003&theme=tokyonight&background=08080C&stroke=330A14&ring=FF1E40&fire=FF1E40&currStreakNum=FFFFFF&sideNums=E2E2E8&currStreakLabel=FF4D6D&sideLabels=808095&dates=808095" alt="Hoàng Phi GitHub Streak" height="160" />
-  </p>
+  <!-- =================================================================== -->
+  <!-- DUAL TELEMETRY DECK: AUTONOMOUS METRICS & TECH MATRIX CARDS         -->
+  <!-- =================================================================== -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" width="48%">
+        <img src="./stats-card.svg" alt="Hoàng Phi - Autonomous Metrics" width="100%" />
+      </td>
+      <td width="4%"></td>
+      <td align="center" valign="top" width="48%">
+        <img src="./languages-card.svg" alt="Hoàng Phi - Tech Matrix &amp; Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
