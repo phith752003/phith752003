@@ -1,0 +1,56 @@
+name: Update Cyberpunk Crimson Profile
+
+on:
+  schedule:
+    # Chạy tự động vào lúc 00:00 UTC mỗi ngày (7:00 AM VN)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Cho phép kích hoạt thủ công từ tab Actions
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🚀 Kiểm tra mã nguồn (Checkout)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Thiết lập môi trường Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 📦 Cài đặt thư viện phụ thuộc
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      # Định danh Repository: phith752003/phith752003
+      - name: ⚡ Tạo lại toàn bộ Cyberpunk Crimson SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_all.py --username "phith752003" --token "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: 💾 Commit và Push cập nhật mới
+        run: |
+          git config --global user.name "AI-Company-OS-Bot"
+          git config --global user.email "bot@aicompany.os"
+          git add founder-ascii.svg info-card.svg contrib-heatmap.svg banner-capsule.svg data/hero.png
+          if git diff --staged --quiet; then
+            echo "[INFO] Không có thay đổi nào mới, bỏ qua commit."
+          else
+            git commit -m "chore(telemetry): update Cyberpunk Crimson matrix and heatmap [skip ci]"
+            git push
+          fi
