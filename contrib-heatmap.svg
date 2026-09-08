@@ -85,7 +85,7 @@
   <circle cx="32" cy="19" r="4.5" fill="#B30024" />
   <circle cx="46" cy="19" r="4.5" fill="#4D0012" />
 
-  <text x="70" y="23" class="title-heat">AUTONOMOUS_OPERATIONS // CONTRIB_HEATMAP</text>
+  <text x="70" y="23" class="title-heat">GIT_TELEMETRY // CONTRIB_HEATMAP</text>
 
   <!-- Badge Trạng Thái -->
   <circle cx="800" cy="19" r="3.5" fill="#00FF88" class="live-dot" />
@@ -105,9 +105,9 @@
     <text x="360" y="0" class="stat-lbl">LONGEST STREAK</text>
     <text x="360" y="18" class="stat-val">403 <tspan font-size="10" fill="#FF4D6D">DAYS</tspan></text>
 
-    <!-- 4. Active Swarms -->
-    <text x="530" y="0" class="stat-lbl">AUTONOMOUS SWARMS</text>
-    <text x="530" y="18" class="stat-val">16 <tspan font-size="10" fill="#00FF88">AGENTS</tspan></text>
+    <!-- 4. Production Projects -->
+    <text x="530" y="0" class="stat-lbl">PRODUCTION APPS</text>
+    <text x="530" y="18" class="stat-val">15+ <tspan font-size="10" fill="#00FF88">DEPLOYED</tspan></text>
 
     <!-- 5. Velocity -->
     <text x="700" y="0" class="stat-lbl">DAILY VELOCITY</text>

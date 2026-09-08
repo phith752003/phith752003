@@ -120,7 +120,7 @@
     <g transform="translate(0, 14)">
       <circle cx="4" cy="-3" r="4" fill="#FF1E40" />
       <text x="16" y="1" class="lang-name">Python</text>
-      <text x="68" y="1" class="lang-scope">(Core AI Swarms &amp; Conductor)</text>
+      <text x="68" y="1" class="lang-scope">(FastAPI &amp; Backend Systems)</text>
       <text x="295" y="1" class="lang-percent" fill="#FF1E40">45.5%</text>
       <!-- Mini bar -->
       <rect x="340" y="-7" width="50" height="5" rx="2.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.6" />

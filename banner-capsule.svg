@@ -124,9 +124,9 @@
 
   <!-- Khung Tiêu Đề Trung Tâm -->
   <g transform="translate(195, 82)">
-    <text x="0" y="0" class="telemetry">AI_COMPANY_OS // NEURAL_ORCHESTRATION_CORE</text>
+    <text x="0" y="0" class="telemetry">FULLSTACK_DEVELOPER // HIGH_PERFORMANCE_WEB_SYSTEMS</text>
     <text x="0" y="42" class="glow-title" filter="url(#subtleGlow)">HOÀNG PHI</text>
-    <text x="0" y="70" class="glow-sub">CHIEF CONDUCTOR • ARCHITECT OF AUTONOMOUS EMPIRES</text>
+    <text x="0" y="70" class="glow-sub">SENIOR FULL-STACK DEVELOPER • MODERN WEB ARCHITECT</text>
   </g>
 
   <!-- Góc Vát Cyberpunk Bevels -->
@@ -137,7 +137,7 @@
 
   <!-- Dải Telemetry Góc Dưới -->
   <line x1="30" y1="184" x2="870" y2="184" stroke="#330814" stroke-width="1" />
-  <text x="35" y="202" class="telemetry">CORE_FREQUENCY: 5.8 GHz // NEURAL_SYNC: 99.98%</text>
-  <text x="450" y="202" class="telemetry" text-anchor="middle">KERNEL: ANTIGRAVITY v2.0 // GEMINI 3.8 SWARMS</text>
+  <text x="35" y="202" class="telemetry">CORE_FREQUENCY: 5.8 GHz // SYSTEM_UPTIME: 99.98%</text>
+  <text x="450" y="202" class="telemetry" text-anchor="middle">CORE: NEXT.JS 15 • FASTAPI • DISTRIBUTED SYSTEMS</text>
   <text x="865" y="202" class="telemetry" text-anchor="end" fill="#00FF88">TELEMETRY: STABLE [ONLINE]</text>
 </svg>

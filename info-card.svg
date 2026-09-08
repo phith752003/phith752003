@@ -116,7 +116,7 @@
   <circle cx="32" cy="19" r="4.5" fill="#B30024" />
   <circle cx="46" cy="19" r="4.5" fill="#4D0012" />
 
-  <text x="70" y="23" class="title-header">SYSTEM_PROBE // NEOFETCH_V3.8</text>
+  <text x="70" y="23" class="title-header">SYSTEM_PROBE // DEVELOPER_SPECS</text>
   <circle cx="350" cy="19" r="3.5" fill="#00FF88" class="live-indicator" />
   <text x="360" y="22" class="hud-dim" fill="#00FF88" font-weight="bold">ACTIVE</text>
 
@@ -124,13 +124,13 @@
   <g transform="translate(20, 56)">
     <text x="0" y="0" class="prompt-symbol">❯</text>
     <text x="14" y="0" class="font-mono" font-size="11.5" fill="#FF4D6D" font-weight="bold">neofetch</text>
-    <text x="82" y="0" class="font-mono" font-size="11.5" fill="#888899">--target founder.phith752003</text>
+    <text x="82" y="0" class="font-mono" font-size="11.5" fill="#888899">--target engineer.phith752003</text>
   </g>
 
   <!-- Dòng phân cách Header -->
   <line x1="20" y1="68" x2="410" y2="68" class="separator" />
 
-  <!-- Mini ASCII Emblem / Logo AI Company OS -->
+  <!-- Mini ASCII Emblem / Logo Fullstack Core -->
   <g transform="translate(20, 84)">
     <!-- Logo Hexagon Cyberpunk với lõi hạt nhân -->
     <polygon points="28,2 54,16 54,46 28,60 2,46 2,16" stroke="#FF1E40" stroke-width="1.5" fill="#14040A" />
@@ -139,60 +139,60 @@
     <!-- Chữ viết tắt HP Core -->
     <text x="21" y="34" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="900" fill="#FFFFFF">HP</text>
 
-    <text x="70" y="18" class="font-mono" font-size="14" font-weight="800" fill="#FFFFFF">phith752003<tspan fill="#FF1E40">@</tspan><tspan fill="#FF4D6D">conductor-core</tspan></text>
+    <text x="70" y="18" class="font-mono" font-size="14" font-weight="800" fill="#FFFFFF">phith752003<tspan fill="#FF1E40">@</tspan><tspan fill="#FF4D6D">fullstack-core</tspan></text>
     <line x1="70" y1="26" x2="390" y2="26" stroke="#590014" stroke-width="1.2" stroke-dasharray="3,3" />
-    <text x="70" y="42" class="hud-dim">UPTIME: 365 DAYS 24/7 (AUTONOMOUS)</text>
-    <text x="70" y="55" class="hud-dim">ORGANIZATION: AI COMPANY OS EMPIRE</text>
+    <text x="70" y="42" class="hud-dim">EXPERIENCE: SENIOR FULL-STACK WEB ENGINEER</text>
+    <text x="70" y="55" class="hud-dim">SPECIALIZATION: HIGH-PERFORMANCE WEB &amp; APIS</text>
   </g>
 
   <!-- Chi tiết Thông Số Neofetch -->
   <g transform="translate(20, 168)">
-    <!-- 1. Founder -->
-    <text x="0" y="0" class="key-label">Founder</text>
-    <text x="85" y="0" class="value-text">: <tspan class="value-bold">Hoàng Phi (phith752003)</tspan> <tspan fill="#FF1E40">(Chief Conductor)</tspan></text>
+    <!-- 1. Engineer -->
+    <text x="0" y="0" class="key-label">Engineer</text>
+    <text x="85" y="0" class="value-text">: <tspan class="value-bold">Trần Hoàng Phi</tspan> <tspan fill="#FF1E40">(Full-Stack Developer)</tspan></text>
 
     <!-- 2. Role -->
     <text x="0" y="24" class="key-label">Role</text>
-    <text x="85" y="24" class="value-text">: <tspan fill="#FF4D6D">AI Orchestrator &amp; Architect</tspan></text>
+    <text x="85" y="24" class="value-text">: <tspan fill="#FF4D6D">Full-Stack Architect &amp; Software Engineer</tspan></text>
 
     <!-- 3. OS -->
     <text x="0" y="48" class="key-label">OS</text>
-    <text x="85" y="48" class="value-text">: AI Company OS <tspan fill="#808095">(Autonomous Edition)</tspan></text>
+    <text x="85" y="48" class="value-text">: Linux / Windows Dev Environment</text>
 
     <!-- 4. Kernel -->
     <text x="0" y="72" class="key-label">Kernel</text>
-    <text x="85" y="72" class="value-text">: <tspan fill="#00FF88">Antigravity</tspan> / Gemini 3.8 Multi-Agent</text>
+    <text x="85" y="72" class="value-text">: <tspan fill="#00FF88">Modern Web</tspan> / React, Next.js, Node.js, Python</text>
 
     <!-- 5. Shell -->
     <text x="0" y="96" class="key-label">Shell</text>
-    <text x="85" y="96" class="value-text">: Jarvis Flow / Paperclip C-Suite</text>
+    <text x="85" y="96" class="value-text">: TypeScript / FastAPI / Microservices</text>
 
     <!-- 6. Stack -->
     <text x="0" y="120" class="key-label">Stack</text>
-    <text x="85" y="120" class="value-text">: Python, TypeScript, React, Three.js</text>
+    <text x="85" y="120" class="value-text">: PostgreSQL, Redis, Docker, Tailwind CSS</text>
 
-    <!-- 7. Swarms -->
-    <text x="0" y="144" class="key-label">Swarms</text>
-    <text x="85" y="144" class="value-text">: 12 Autonomous Agents Active</text>
+    <!-- 7. Focus -->
+    <text x="0" y="144" class="key-label">Focus</text>
+    <text x="85" y="144" class="value-text">: Scalable Architecture &amp; Interactive UI</text>
 
     <!-- 8. Mission -->
     <text x="0" y="168" class="key-label">Mission</text>
-    <text x="85" y="168" class="value-text">: <tspan fill="#FF4D6D" font-weight="600">Orchestrating Autonomous AI Empires</tspan></text>
+    <text x="85" y="168" class="value-text">: <tspan fill="#FF4D6D" font-weight="600">Building High-Performance &amp; Elegant Web Solutions</tspan></text>
   </g>
 
   <!-- Phần Tiến Trình Hệ Thống (Resource Gauges) -->
   <g transform="translate(20, 360)">
     <line x1="0" y1="0" x2="390" y2="0" class="separator" />
 
-    <!-- Neural Bandwidth Bar -->
-    <text x="0" y="18" class="hud-dim" fill="#E2E2E8">Neural Bandwidth:</text>
+    <!-- Runtime Efficiency Bar -->
+    <text x="0" y="18" class="hud-dim" fill="#E2E2E8">System Optimization:</text>
     <text x="350" y="18" class="hud-dim" fill="#FF4D6D" font-weight="bold">88.5%</text>
     <rect x="0" y="24" width="390" height="7" rx="3.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.8" />
     <rect x="1" y="25" width="343" height="5" rx="2.5" fill="url(#barGrad)" />
 
-    <!-- Swarm Sync Ratio Bar -->
-    <text x="0" y="48" class="hud-dim" fill="#E2E2E8">Agent Swarm Sync:</text>
-    <text x="350" y="48" class="hud-dim" fill="#00FF88" font-weight="bold">97.2%</text>
+    <!-- Service Reliability Bar -->
+    <text x="0" y="48" class="hud-dim" fill="#E2E2E8">Service Reliability:</text>
+    <text x="350" y="48" class="hud-dim" fill="#00FF88" font-weight="bold">99.2%</text>
     <rect x="0" y="54" width="390" height="7" rx="3.5" fill="#1A0A10" stroke="#330A14" stroke-width="0.8" />
     <rect x="1" y="55" width="377" height="5" rx="2.5" fill="url(#barGrad2)" />
   </g>
@@ -210,7 +210,7 @@
     <rect x="196" y="0" width="22" height="12" rx="2" fill="#FFA6B7" />
 
     <!-- Nhãn Footer Góc Phải -->
-    <text x="390" y="10" class="hud-dim" text-anchor="end">AI_COMPANY_OS // KERNEL v3.8</text>
+    <text x="390" y="10" class="hud-dim" text-anchor="end">DEV_SPECS // WEB_CORE v3.8</text>
   </g>
 
   <!-- Viền góc trang trí dưới -->

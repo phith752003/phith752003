@@ -3,7 +3,7 @@
   <!-- ================================================================= -->
   <!-- CINEMATIC CAPSULE BANNER: VENOM CRIMSON & DARK OLED               -->
   <!-- ================================================================= -->
-  <img src="./banner-capsule.svg" alt="Hoàng Phi - Chief Conductor Banner" width="100%" />
+  <img src="./banner-capsule.svg" alt="Hoàng Phi - Senior Full-Stack Developer Banner" width="100%" />
 
   <br/><br/>
 
@@ -11,7 +11,7 @@
   <!-- TYPING SVG JETBRAINS MONO CRIMSON NEON                            -->
   <!-- ================================================================= -->
   <a href="https://github.com/phith752003">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FF1E40&center=true&vCenter=true&width=780&lines=CHIEF+CONDUCTOR+%E2%80%A2+AI+COMPANY+OS;ORCHESTRATING+AUTONOMOUS+AI+EMPIRES;KERNEL%3A+ANTIGRAVITY+%7C+GEMINI+3.8+MULTI-AGENT;NEURAL+BANDWIDTH%3A+88.5%25+%E2%80%A2+12+SWARMS+ACTIVE" alt="Typing SVG Cyberpunk" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FF1E40&center=true&vCenter=true&width=780&lines=FULL-STACK+WEB+DEVELOPER;MODERN+WEB+ARCHITECTURE;REACT+%7C+NEXT.JS+%7C+TYPESCRIPT+%7C+FASTAPI;SCALABLE+BACKEND+%26+INTERACTIVE+3D+UI" alt="Typing SVG Cyberpunk" />
   </a>
 
   <br/><br/>
@@ -21,11 +21,11 @@
   <!-- ================================================================= -->
   <p align="center">
     <a href="https://github.com/phith752003"><img src="https://komarev.com/ghpvc/?username=phith752003&label=PROFILE+VIEWS&color=FF1E40&style=for-the-badge&base=08080C" alt="Profile Views" /></a>
-    <a href="#-mission--vision"><img src="https://img.shields.io/badge/FOUNDER-HO%C3%80NG%20PHI-08080C?style=for-the-badge&logo=target&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Founder" /></a>
-    <a href="#-c-suite-autonomous-swarms"><img src="https://img.shields.io/badge/ROLE-CHIEF%20CONDUCTOR-08080C?style=for-the-badge&logo=openai&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Role" /></a>
-    <a href="#-dual-terminal-command-deck"><img src="https://img.shields.io/badge/OS-AI%20COMPANY%20OS-08080C?style=for-the-badge&logo=linux&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="OS" /></a>
-    <a href="#-neural-armory--stack"><img src="https://img.shields.io/badge/KERNEL-ANTIGRAVITY%20%2F%20GEMINI%203.8-08080C?style=for-the-badge&logo=google&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Kernel" /></a>
-    <a href="#-autonomous-contribution-telemetry"><img src="https://img.shields.io/badge/SWARMS-12%20ACTIVE%20AGENTS-08080C?style=for-the-badge&logo=probot&logoColor=00FF88&labelColor=08080C&color=FF1E40" alt="Swarms" /></a>
+    <a href="#-technical-arsenal--core-skills"><img src="https://img.shields.io/badge/ENGINEER-TR%E1%BA%A6N%20HO%C3%80NG%20PHI-08080C?style=for-the-badge&logo=codeforces&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Engineer" /></a>
+    <a href="#-technical-arsenal--core-skills"><img src="https://img.shields.io/badge/ROLE-SENIOR%20FULL--STACK%20DEVELOPER-08080C?style=for-the-badge&logo=react&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Role" /></a>
+    <a href="#-dual-terminal-command-deck"><img src="https://img.shields.io/badge/DEV%20ENV-LINUX%20%2F%20WINDOWS-08080C?style=for-the-badge&logo=linux&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="OS" /></a>
+    <a href="#-technical-arsenal--core-skills"><img src="https://img.shields.io/badge/CORE%20STACK-NEXT.JS%2015%20%2B%20FASTAPI-08080C?style=for-the-badge&logo=fastapi&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Core Stack" /></a>
+    <a href="#-development-activity--telemetry"><img src="https://img.shields.io/badge/PROJECTS-15%2B%20DEPLOYED-08080C?style=for-the-badge&logo=githubactions&logoColor=00FF88&labelColor=08080C&color=FF1E40" alt="Projects" /></a>
   </p>
 
 </div>
@@ -34,16 +34,16 @@
 
 <div align="center">
   <h2>⚡ DUAL TERMINAL COMMAND DECK ⚡</h2>
-  <p><i>Hệ thống giám sát chỉ huy trực quan thời gian thực của Founder Hoàng Phi &amp; AI Company OS</i></p>
+  <p><i>Hệ thống giám sát hiệu năng kỹ thuật thời gian thực của Kỹ sư Trần Hoàng Phi</i></p>
 </div>
 
 <!-- =================================================================== -->
-<!-- DUAL TERMINAL TABLE: FOUNDER MATRIX ASCII & NEOFETCH INFO CARD       -->
+<!-- DUAL TERMINAL TABLE: DEVELOPER MATRIX ASCII & NEOFETCH INFO CARD    -->
 <!-- =================================================================== -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top" width="48%">
-      <img src="./founder-ascii.svg" alt="Founder Hoàng Phi Cyberpunk ASCII Matrix" width="100%" />
+      <img src="./developer-ascii.svg" alt="Trần Hoàng Phi Cyberpunk ASCII Matrix" width="100%" />
     </td>
     <td width="4%"></td>
     <td align="center" valign="top" width="48%">
@@ -54,50 +54,47 @@
 
 ---
 
-### 🌐 C-SUITE AUTONOMOUS SWARMS
-
-<div align="center">
-  <p><i>Đội ngũ AI Agents tự hành trực thuộc quyền điều phối tối cao của Chief Conductor</i></p>
-</div>
-
-| Biệt Danh Agent | Chức Danh C-Suite | Phạm Vi Quyền Hạn | Trạng Thái Hoạt Động |
-| :--- | :--- | :--- | :---: |
-| **`ceo_agent`** | Strategic Orchestrator | Hoạch định chiến lược kinh doanh, phân bổ nguồn lực & định vị thị trường | `● OPERATIONAL` |
-| **`cpo_planner`** | Product Architect | Thiết kế kiến trúc giải pháp, PRD, Roadmap & trải nghiệm người dùng | `● OPERATIONAL` |
-| **`dev_coder`** | Engineering Squad | Phát triển mã nguồn Full-Stack, Tối ưu hóa thuật toán & CI/CD tự động | `● COMPILING` |
-| **`qa_debugger`** | Security & Reliability | Kiểm thử tự động E2E, Sát hạch bảo mật hệ thống & Tự động phục hồi lỗi | `● ACTIVE` |
-| **`growth_marketer`** | Viral Distribution | Tiếp thị tăng trưởng, Tối ưu SEO/AEO & Mạng lưới phân phối nội dung | `● SYNCHRONIZING` |
-| **`finance_auditor`** | Tokenomics & Treasury | Quản trị ngân sách, Phân tích chỉ số tài chính PnL & Kiểm toán tự động | `● AUDITING` |
-
----
-
-### 🛡️ NEURAL ARMORY & TECH STACK
+### 🛡️ TECHNICAL ARSENAL & CORE SKILLS
 
 <div align="center">
 
-  #### Core Intelligence & Agent Swarms
+  #### Frontend Architecture & Spatial Experiences
   <p>
-    <img src="https://img.shields.io/badge/Gemini_3.8_Flash-08080C?style=for-the-badge&logo=google&logoColor=FF1E40&labelColor=08080C" alt="Gemini 3.8" />
-    <img src="https://img.shields.io/badge/Antigravity_SDK-08080C?style=for-the-badge&logo=spacex&logoColor=FF1E40&labelColor=08080C" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/LangGraph_&_CrewAI-08080C?style=for-the-badge&logo=diagram-next&logoColor=FF1E40&labelColor=08080C" alt="Agent Swarms" />
-    <img src="https://img.shields.io/badge/Model_Context_Protocol-08080C?style=for-the-badge&logo=json&logoColor=FF1E40&labelColor=08080C" alt="MCP" />
+    <img src="https://img.shields.io/badge/Next.js_15-08080C?style=for-the-badge&logo=next.js&logoColor=FF1E40&labelColor=08080C" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React_19-08080C?style=for-the-badge&logo=react&logoColor=FF1E40&labelColor=08080C" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-08080C?style=for-the-badge&logo=typescript&logoColor=FF1E40&labelColor=08080C" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS_v4-08080C?style=for-the-badge&logo=tailwindcss&logoColor=FF1E40&labelColor=08080C" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Three.js_/_WebGL-08080C?style=for-the-badge&logo=three.js&logoColor=FF1E40&labelColor=08080C" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Redux_/_Zustand-08080C?style=for-the-badge&logo=redux&logoColor=FF1E40&labelColor=08080C" alt="State Management" />
   </p>
 
-  #### Backend & Distributed Systems
+  #### Backend Systems & High-Velocity APIs
   <p>
     <img src="https://img.shields.io/badge/Python_3.11+-08080C?style=for-the-badge&logo=python&logoColor=FF1E40&labelColor=08080C" alt="Python" />
     <img src="https://img.shields.io/badge/FastAPI-08080C?style=for-the-badge&logo=fastapi&logoColor=FF1E40&labelColor=08080C" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js_/_TypeScript-08080C?style=for-the-badge&logo=typescript&logoColor=FF1E40&labelColor=08080C" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/PostgreSQL_/_Redis-08080C?style=for-the-badge&logo=postgresql&logoColor=FF1E40&labelColor=08080C" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Docker_&_Kubernetes-08080C?style=for-the-badge&logo=docker&logoColor=FF1E40&labelColor=08080C" alt="Docker" />
+    <img src="https://img.shields.io/badge/Node.js_/_Express-08080C?style=for-the-badge&logo=node.js&logoColor=FF1E40&labelColor=08080C" alt="Node.js" />
+    <img src="https://img.shields.io/badge/RESTful_APIs-08080C?style=for-the-badge&logo=postman&logoColor=FF1E40&labelColor=08080C" alt="RESTful" />
+    <img src="https://img.shields.io/badge/WebSockets-08080C?style=for-the-badge&logo=socket.io&logoColor=FF1E40&labelColor=08080C" alt="WebSockets" />
+    <img src="https://img.shields.io/badge/GraphQL-08080C?style=for-the-badge&logo=graphql&logoColor=FF1E40&labelColor=08080C" alt="GraphQL" />
   </p>
 
-  #### Frontend & Spatial Cyber Experience
+  #### Database, Caching & ORM
   <p>
-    <img src="https://img.shields.io/badge/Next.js_14+-08080C?style=for-the-badge&logo=next.js&logoColor=FF1E40&labelColor=08080C" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React_19-08080C?style=for-the-badge&logo=react&logoColor=FF1E40&labelColor=08080C" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS_v4-08080C?style=for-the-badge&logo=tailwindcss&logoColor=FF1E40&labelColor=08080C" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/Three.js_/_WebGL-08080C?style=for-the-badge&logo=three.js&logoColor=FF1E40&labelColor=08080C" alt="Three.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-08080C?style=for-the-badge&logo=postgresql&logoColor=FF1E40&labelColor=08080C" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis_Cache-08080C?style=for-the-badge&logo=redis&logoColor=FF1E40&labelColor=08080C" alt="Redis" />
+    <img src="https://img.shields.io/badge/MongoDB-08080C?style=for-the-badge&logo=mongodb&logoColor=FF1E40&labelColor=08080C" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Prisma_ORM-08080C?style=for-the-badge&logo=prisma&logoColor=FF1E40&labelColor=08080C" alt="Prisma" />
+    <img src="https://img.shields.io/badge/SQLAlchemy-08080C?style=for-the-badge&logo=databricks&logoColor=FF1E40&labelColor=08080C" alt="SQLAlchemy" />
+  </p>
+
+  #### DevOps, Infrastructure & System Design
+  <p>
+    <img src="https://img.shields.io/badge/Docker_Containers-08080C?style=for-the-badge&logo=docker&logoColor=FF1E40&labelColor=08080C" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-08080C?style=for-the-badge&logo=kubernetes&logoColor=FF1E40&labelColor=08080C" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Linux_Kernel-08080C?style=for-the-badge&logo=linux&logoColor=FF1E40&labelColor=08080C" alt="Linux" />
+    <img src="https://img.shields.io/badge/Nginx_Proxy-08080C?style=for-the-badge&logo=nginx&logoColor=FF1E40&labelColor=08080C" alt="Nginx" />
+    <img src="https://img.shields.io/badge/GitHub_Actions_CI/CD-08080C?style=for-the-badge&logo=githubactions&logoColor=FF1E40&labelColor=08080C" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/Microservices_Architecture-08080C?style=for-the-badge&logo=git&logoColor=FF1E40&labelColor=08080C" alt="Microservices" />
   </p>
 
 </div>
@@ -106,24 +103,24 @@
 
 <div align="center">
 
-  ### 📊 AUTONOMOUS CONTRIBUTION TELEMETRY
-  <p><i>Chu kỳ hoạt động &amp; tần suất commit liên tục của Founder và đội ngũ AI Swarms trong 53 tuần</i></p>
+  ### 📊 DEVELOPMENT ACTIVITY & TELEMETRY
+  <p><i>Chu kỳ hoạt động &amp; tần suất commit liên tục của Hoàng Phi trong 53 tuần</i></p>
 
-  <img src="./contrib-heatmap.svg" alt="GitHub Autonomous Contribution Heatmap Cyberpunk Crimson" width="100%" />
+  <img src="./contrib-heatmap.svg" alt="GitHub Development Contribution Heatmap Cyberpunk Crimson" width="100%" />
 
   <br/><br/>
 
   <!-- =================================================================== -->
-  <!-- DUAL TELEMETRY DECK: AUTONOMOUS METRICS & TECH MATRIX CARDS         -->
+  <!-- DUAL TELEMETRY DECK: METRICS & TECH MATRIX CARDS                    -->
   <!-- =================================================================== -->
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top" width="48%">
-        <img src="./stats-card.svg" alt="Hoàng Phi - Autonomous Metrics" width="100%" />
+        <img src="./stats-card.svg" alt="Trần Hoàng Phi - Developer Metrics" width="100%" />
       </td>
       <td width="4%"></td>
       <td align="center" valign="top" width="48%">
-        <img src="./languages-card.svg" alt="Hoàng Phi - Tech Matrix &amp; Languages" width="100%" />
+        <img src="./languages-card.svg" alt="Trần Hoàng Phi - Tech Matrix &amp; Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -132,29 +129,31 @@
 
 ---
 
-### 🎯 MISSION & ARCHITECTURE PHILOSOPHY
+### 🎯 ENGINEERING PHILOSOPHY & SYSTEM ARCHITECTURE
 
-> *"Chúng ta không còn lập trình theo cách thủ công từng dòng lệnh đơn lẻ.  
-> Vai trò của người sáng lập trong kỷ nguyên mới là **Chief Conductor (Tổng Chỉ Huy)** — người kiến tạo tầm nhìn, thiết kế giao thức và điều khiển dàn hợp xướng các tác nhân AI tự hành vận hành trơn tru như một cỗ máy vĩnh cửu."*
+> *"Chất lượng phần mềm bắt đầu từ kiến trúc module rõ ràng, hiệu năng web mượt mà chuẩn 60 FPS và hệ thống backend chịu tải cao, sẵn sàng mở rộng mà không đánh đổi tính ổn định."*
 > 
-> — **Hoàng Phi**, *Chief Conductor @ AI Company OS*
+> — **Trần Hoàng Phi**, *Senior Full-Stack Web Developer*
 
 ```bash
-# Sơ đồ luồng quyết định tự hành (Autonomous Orchestration Flow)
-[CHIEF CONDUCTOR] ──(Vision & Objectives)──► [JARVIS FLOW ORCHESTRATOR]
-                                                        │
-         ┌───────────────────┬──────────────────────────┼──────────────────────────┐
-         ▼                   ▼                          ▼                          ▼
-   [CEO_AGENT]         [CPO_PLANNER]              [DEV_CODER]               [QA_DEBUGGER]
- (Strategy & PnL)   (Roadmap & Specs)       (High-Velocity Code)        (Telemetry & Tests)
+# Sơ đồ kiến trúc ứng dụng Web Full-Stack phân tán (Modern Scalable Web Architecture)
+[CLIENT LAYER]  ◄── Next.js 15 / React 19 / Three.js 60fps UI ──►  [EDGE / CLOUDFLARE]
+                                          │
+                               (RESTful API / WebSockets)
+                                          ▼
+[BACKEND CORE]  ◄── FastAPI / Node.js High-Concurrency Engine ──►  [DISTRIBUTED CACHE]
+                                          │                                (Redis In-Memory)
+                                   (Prisma / SQLAlchemy)
+                                          ▼
+[PERSISTENCE]   ◄────── PostgreSQL Relational Database Cluster ────────►  [DOCKER / K8S CLOUD]
 ```
 
 ---
 
 <div align="center">
 
-  ### 📡 NEURAL CHANNELS & TRANSMISSION NODES
-  
+  ### 📡 TRANSMISSION NODES & CONNECT
+
   <p>
     <a href="https://github.com/phith752003">
       <img src="https://img.shields.io/badge/GitHub-phith752003-08080C?style=for-the-badge&logo=github&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="GitHub" />
@@ -165,27 +164,23 @@
     </a>
     &nbsp;
     <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-08080C?style=for-the-badge&logo=linkedin&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Ho%C3%A0ng%20Phi-08080C?style=for-the-badge&logo=linkedin&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://x.com">
-      <img src="https://img.shields.io/badge/X_/_Twitter-08080C?style=for-the-badge&logo=x&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="X" />
-    </a>
-    &nbsp;
-    <a href="mailto:founder@aicompany.os">
-      <img src="https://img.shields.io/badge/Neural_Mail-08080C?style=for-the-badge&logo=gmail&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Email" />
+    <a href="mailto:hoangphi.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-hoangphi.dev@gmail.com-08080C?style=for-the-badge&logo=gmail&logoColor=FF1E40&labelColor=08080C&color=FF1E40" alt="Email" />
     </a>
   </p>
 
   <br/>
 
   <!-- ================================================================= -->
-  <!-- FOOTER: CYBERPUNK CONDUCTOR IDENTITY                              -->
+  <!-- FOOTER: FULL-STACK WEB ENGINEERING IDENTITY                       -->
   <!-- ================================================================= -->
   <p align="center">
-    <code>AI COMPANY OS // AUTONOMOUS ENTERPRISE FRAMEWORK</code><br/>
-    <sub>⚡ Orchestrated by <b>Hoàng Phi</b> • Powered by Antigravity &amp; Gemini 3.8 Multi-Agent Swarms ⚡</sub><br/>
-    <sub>© 2026 Hoàng Phi. All Neural Rights Reserved. Transmitting on Crimson Wave #FF1E40.</sub>
+    <code>FULL-STACK WEB ENGINEERING // MODERN DISTRIBUTED SYSTEMS</code><br/>
+    <sub>⚡ Architected &amp; Maintained by <b>Trần Hoàng Phi</b> • Built with Clean Code &amp; High Performance ⚡</sub><br/>
+    <sub>© 2026 Trần Hoàng Phi. All Engineering Rights Reserved. Transmitting on Crimson Wave #FF1E40.</sub>
   </p>
 
 </div>
