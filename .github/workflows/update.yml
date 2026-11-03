@@ -1,16 +1,7 @@
 name: Update Cyberpunk Crimson Profile
 
 on:
-  schedule:
-    # Chạy tự động vào lúc 00:00 UTC mỗi ngày (7:00 AM VN)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Cho phép kích hoạt thủ công từ tab Actions
-  push:
-    branches:
-      - main
-    paths:
-      - 'data/**'
-      - 'scripts/**'
+  workflow_dispatch: # Manual trigger only (legacy schedule disabled)
 
 permissions:
   contents: write
