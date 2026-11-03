@@ -1,34 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 110" width="850" height="110">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 96" width="850" height="96">
   <defs>
-    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="100%" stop-color="#161B22" />
-    </linearGradient>
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="100%" stop-color="#0284C7" stop-opacity="0" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="100%" stop-color="#111827" />
     </linearGradient>
   </defs>
-
-  <!-- Card Background -->
-  <rect x="1" y="1" width="848" height="108" rx="8" fill="url(#cardBg)" stroke="#30363D" stroke-width="1" />
-
-  <!-- Subtle Top Accent Highlight -->
-  <line x1="16" y1="1" x2="200" y2="1" stroke="url(#accentLine)" stroke-width="2" stroke-linecap="round" />
-
-  <!-- Left: Developer Identity -->
-  <g transform="translate(32, 45)">
-    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-weight="700" font-size="23" fill="#F0F6FC" letter-spacing="-0.3">Phi Tran Hoang</text>
-    <text x="180" y="-1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#8B949E">(Trần Hoàng Phi)</text>
-    <text x="0" y="30" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" font-weight="500" fill="#38BDF8">PHP &amp; Laravel Developer <tspan fill="#30363D">|</tspan> <tspan fill="#8B949E">Backend &amp; REST API Specialist</tspan></text>
-  </g>
-
-  <!-- Right: Availability & Location -->
-  <g transform="translate(640, 45)">
-    <g>
-      <circle cx="0" cy="-2" r="3.5" fill="#3FB950" />
-      <text x="12" y="2" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="600" fill="#3FB950" letter-spacing="0.5">OPEN FOR FREELANCE</text>
-    </g>
-    <text x="12" y="28" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8B949E">Hanoi, Vietnam (UTC+7)</text>
-  </g>
+  <rect width="850" height="96" rx="8" fill="url(#bg)" stroke="#1F2937" stroke-width="1" />
+  <text x="425" y="43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#F9FAFB" text-anchor="middle">Phi Tran Hoang (Trần Hoàng Phi)</text>
+  <text x="425" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="500" font-size="13.5" fill="#38BDF8" text-anchor="middle">PHP &amp; Laravel Developer <tspan fill="#4B5563">|</tspan> Backend Development &amp; REST API Specialist</text>
 </svg>
