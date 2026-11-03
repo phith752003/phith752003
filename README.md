@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Phi Tran Hoang (Trần Hoàng Phi)
-  
-  **PHP & Laravel Developer | Backend Development & REST API Specialist**
+  <img src="./banner.svg" alt="Phi Tran Hoang - PHP & Laravel Backend Specialist" width="100%" />
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://github.com/phith752003">

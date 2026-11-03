@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <!-- Background Gradient: Deep Slate & Midnight Navy -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="35%" stop-color="#0B1326" />
+      <stop offset="70%" stop-color="#0E1A38" />
+      <stop offset="100%" stop-color="#070B14" />
+    </linearGradient>
+
+    <!-- 1px Subtle Border Gradient with Cyan Highlight -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#0284C7" stop-opacity="0.9" />
+      <stop offset="75%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+
+    <!-- Cyan Ambient Light Aura -->
+    <radialGradient id="cyanAura" cx="70%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.14" />
+      <stop offset="50%" stop-color="#0284C7" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#070B14" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Glow Filter -->
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base Card Canvas -->
+  <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#bgGradient)" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Ambient Light Reflection -->
+  <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#cyanAura)" />
+
+  <!-- Technical Blueprint Grid (Subtle, Clean) -->
+  <g opacity="0.06" stroke="#38BDF8" stroke-width="0.8">
+    <line x1="0" y1="48" x2="900" y2="48" />
+    <line x1="0" y1="96" x2="900" y2="96" />
+    <line x1="0" y1="144" x2="900" y2="144" />
+    <line x1="0" y1="192" x2="900" y2="192" />
+
+    <line x1="120" y1="0" x2="120" y2="240" />
+    <line x1="270" y1="0" x2="270" y2="240" />
+    <line x1="450" y1="0" x2="450" y2="240" />
+    <line x1="630" y1="0" x2="630" y2="240" />
+    <line x1="780" y1="0" x2="780" y2="240" />
+  </g>
+
+  <!-- Faint Watermark Architecture Commands -->
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10.5" fill="#38BDF8" opacity="0.06">
+    <text x="32" y="38">$ php artisan test --filter=OrderApiTest</text>
+    <text x="32" y="60">$ EXPLAIN SELECT * FROM orders WHERE status = 'paid';</text>
+    <text x="32" y="82">$ redis-cli HGETALL catalog:categories:tree</text>
+    <text x="590" y="165">$ docker compose up -d --build</text>
+    <text x="590" y="187">$ php artisan queue:work --tries=3</text>
+    <text x="590" y="209">$ git commit -m 'perf: eager load relationships'</text>
+  </g>
+
+  <!-- Left Icon Emblem: Backend Terminal Matrix -->
+  <g transform="translate(52, 58)">
+    <rect x="0" y="0" width="98" height="118" rx="12" fill="#0A1122" stroke="#1E293B" stroke-width="1.5" />
+    <rect x="6" y="6" width="86" height="106" rx="8" fill="#0D162B" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.35" />
+    
+    <!-- Code Bracket Symbol -->
+    <text x="49" y="62" font-family="'JetBrains Mono', monospace" font-weight="900" font-size="34" fill="#38BDF8" text-anchor="middle" filter="url(#cyanGlow)">{ / }</text>
+    <text x="49" y="88" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="9.5" fill="#64748B" text-anchor="middle" letter-spacing="2">LARAVEL</text>
+    <text x="49" y="100" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="9" fill="#0284C7" text-anchor="middle" letter-spacing="1.5">PHP 8.x</text>
+  </g>
+
+  <!-- Main Content Cluster -->
+  <g transform="translate(182, 48)">
+    <!-- Top System Telemetry -->
+    <g transform="translate(0, 16)">
+      <rect x="0" y="-13" width="335" height="20" rx="4" fill="#0F1D38" stroke="#1E3A6E" stroke-width="0.8" />
+      <text x="12" y="1" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" fill="#38BDF8" letter-spacing="2">BACKEND DEVELOPER // REST API SPECIALIST</text>
+    </g>
+
+    <!-- Main Name -->
+    <text x="0" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="36" fill="#F8FAFC" letter-spacing="1">PHI TRAN HOANG</text>
+    <text x="350" y="62" font-family="'Inter', sans-serif" font-weight="400" font-size="18" fill="#94A3B8">(Trần Hoàng Phi)</text>
+
+    <!-- Core Stack Subtitle -->
+    <text x="0" y="93" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#60A5FA" letter-spacing="1.5">PHP 8.x • LARAVEL • MYSQL • REDIS • DOCKER • PHPUNIT</text>
+
+    <!-- Bottom Context Badges -->
+    <g transform="translate(0, 122)">
+      <!-- Status Pill -->
+      <g>
+        <rect x="0" y="-12" width="205" height="22" rx="11" fill="#06281E" stroke="#10B981" stroke-width="0.8" />
+        <circle cx="14" cy="-1" r="3.5" fill="#10B981" />
+        <circle cx="14" cy="-1" r="6.5" fill="#10B981" opacity="0.25" />
+        <text x="26" y="3" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" fill="#34D399" letter-spacing="1">AVAILABLE ON UPWORK</text>
+      </g>
+
+      <!-- Commercial Experience Pill -->
+      <g transform="translate(217, 0)">
+        <rect x="0" y="-12" width="270" height="22" rx="11" fill="#0F172A" stroke="#1E293B" stroke-width="0.8" />
+        <text x="14" y="3" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" fill="#94A3B8" letter-spacing="0.8">THK HOLDINGS VN (JAPANESE CLIENTS)</text>
+      </g>
+
+      <!-- Location Pill -->
+      <g transform="translate(498, 0)">
+        <rect x="0" y="-12" width="150" height="22" rx="11" fill="#0F172A" stroke="#1E293B" stroke-width="0.8" />
+        <text x="14" y="3" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" fill="#94A3B8" letter-spacing="0.8">HANOI, VIETNAM</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Minimalist Corner Brackets -->
+  <g stroke="#38BDF8" stroke-width="1.5" fill="none" opacity="0.6">
+    <!-- Top Left -->
+    <path d="M 14 26 L 14 14 L 26 14" />
+    <!-- Top Right -->
+    <path d="M 886 26 L 886 14 L 874 14" />
+    <!-- Bottom Left -->
+    <path d="M 14 214 L 14 226 L 26 226" />
+    <!-- Bottom Right -->
+    <path d="M 886 214 L 886 226 L 874 226" />
+  </g>
+</svg>
