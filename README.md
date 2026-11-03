@@ -2,11 +2,9 @@
 
   <img src="./banner.svg" alt="Phi Tran Hoang - PHP & Laravel Backend Specialist" width="100%" />
 
-  <br/><br/>
-
   <p align="center">
     <a href="https://github.com/phith752003">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Reliable+Laravel+Backends;Designing+Clean+RESTful+APIs;Optimizing+MySQL+Queries+%26+Redis+Caching;Writing+Maintainable%2C+Production-Ready+PHP" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Reliable+Laravel+Backends;Designing+Clean+RESTful+APIs;Optimizing+MySQL+Queries+%26+Redis+Caching;Writing+Maintainable%2C+Production-Ready+PHP" alt="Typing SVG" />
     </a>
   </p>
 
