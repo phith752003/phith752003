@@ -9,6 +9,7 @@
   </p>
 
   <p align="center">
+    <a href="https://phith.click"><img src="https://img.shields.io/badge/Website-phith.click-0D1117?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Website" /></a>
     <a href="mailto:phith75@gmail.com"><img src="https://img.shields.io/badge/Email-phith75%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-0D1117?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
     <img src="https://img.shields.io/badge/Experience-~2%20Years%20Professional-0D1117?style=flat-square&logo=clock&logoColor=38BDF8" alt="Experience" />
@@ -32,7 +33,7 @@ My core focus centers on building reliable backend systems:
 - **Caching & Background Queues:** Implementing in-memory Redis caching with explicit TTLs and cache-invalidation hooks for high-read master data; offloading heavy tasks to asynchronous Laravel Queues.
 - **Reproducible Environments:** Containerizing multi-service development stacks (PHP-FPM, Nginx, MySQL, Redis) via Docker Compose to ensure local and staging environment parity.
 
-Graduated with **Distinction** from **FPT Polytechnic College** (Cumulative GPA: **3.6 / 4.0**). Available for remote freelance contracts and backend development engagements via Upwork.
+Graduated with **Distinction** from **FPT Polytechnic College** (Cumulative GPA: **3.6 / 4.0**). Available for remote freelance contracts and backend development engagements via Upwork. Explore my personal portfolio, architectural design cases, and technical writings at [Trần Hoàng Phi — Senior Design Engineer](https://phith.click).
 
 ---
 
@@ -191,6 +192,7 @@ I am open to remote freelance contracts and backend development engagements on *
 
 <div align="left">
 
+- 🌐 **Personal Website:** [Trần Hoàng Phi — Senior Design Engineer](https://phith.click)
 - 📬 **Direct Email:** [phith75@gmail.com](mailto:phith75@gmail.com)
 - 💼 **GitHub:** [github.com/phith752003](https://github.com/phith752003)
 - 🌐 **Timezone:** Hanoi, Vietnam (UTC+7) — Flexible for asynchronous communication across US, European, and APAC timezones.

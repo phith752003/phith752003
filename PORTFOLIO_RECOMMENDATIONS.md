@@ -100,3 +100,24 @@ When presenting your GitHub profile in Upwork proposals or your profile overview
 
 This positions you as a transparent, high-integrity engineer who writes real, production-ready code.
 
+---
+
+## 7. GitHub Profile Bio, Website & SEO Authority Setup
+
+To leverage GitHub's immense domain authority (DA 96) for Google Search rankings and personal branding:
+
+### A. Update Profile Settings on GitHub (30 seconds)
+Go to **[github.com/settings/profile](https://github.com/settings/profile)** and configure:
+1. **Name:** `Trần Hoàng Phi`
+2. **Bio:** (Max 160 chars)  
+   `PHP & Laravel Backend Specialist • REST API Design, MySQL & Redis. Portfolio & System Design: https://phith.click`
+3. **Website:** `https://phith.click`
+4. **Location:** `Hanoi, Vietnam`
+
+### B. SEO Backlink Anchor Strategy
+Google treats in-content markdown links on GitHub as high-authority dofollow/crawlable citations. We have standardized the anchor text across your profile and key repositories to:
+> `[Trần Hoàng Phi — Senior Design Engineer](https://phith.click)`
+
+This passes domain authority directly to `phith.click` for your primary target personal brand keyword.
+
+

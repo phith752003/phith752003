@@ -137,6 +137,12 @@ src/
 
 ---
 
+## 👤 Author
+
+Developed by [Trần Hoàng Phi — Senior Design Engineer](https://phith.click) ([@phith752003](https://github.com/phith752003)).
+
+---
+
 ## 📜 License
 
 This project was developed as a graduation capstone project at FPT Polytechnic College. Released under the [MIT License](LICENSE).
